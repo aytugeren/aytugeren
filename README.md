@@ -9,11 +9,3 @@ Nowadays, I am trying to finish lots of projects like Blog Project, E-Commerce P
 C#, Python, Node.js and Frontend tools.
 
 If you want to be contributor for my projects please write me about that or send an email to me.
-
-Planned Projects:
--Blog Project               |||||||-----
--ECommerce Project          |||---------
--Instagram Bot              ||||||||||--
--Dynamic Dashboard          |-----------
--Forum Site                 |||||||||||-
-
