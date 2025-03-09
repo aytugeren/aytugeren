@@ -1,6 +1,6 @@
 Hello,
 
-I'm Aytug Eren. I am a Software Developer for 3 years as professional. 
+I'm Aytug Eren. I am a Software Developer for 5 years as professional. 
 I am still active learner in this section. In Github, I am pouring into the project all experiences that I learnt from lessons, my company and articles as an app. 
 
 I like learning new technologies and staying updated in coding world. 
